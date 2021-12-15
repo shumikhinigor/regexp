@@ -37,7 +37,7 @@
             <td><code>[^ \t\n\r\v]</code></td>
         </tr>
         <tr>
-            <td>\.</td>
+            <td>. (точка)</td>
             <td><code>[^\n]</code></td>
         </tr>
         <tr>
